@@ -2,24 +2,39 @@
     width: 200px;
     height: 100px;
     background-color: red;
-    padding-top: 10px;
+    padding-top: 20px;
     position: absolute;
+    text-transform: uppercase;
+    border-style: solid;
+    border-color: green;
+    border-width: 15px;
+    text-align: center;
   }
   
   .second-box-container {
     width: 200px;
     height: 100px;
     background-color: yellow;
-    padding-top: 10px;
+    padding-top: 20px;
     position: absolute;
-    margin-left: 240px;  
+    margin-left: 240px;
+    text-transform: uppercase;  
+    border-style: solid;
+    border-color:red;
+    border-width: 15px;
+    text-align: center;
   }
   
   .third-box-container {
     width: 200px;
     height: 100px;
     background-color: green;
-    padding-top: 10px;
+    padding-top: 20px;
     position: absolute;
     margin-left:480px;
+    text-transform: uppercase;
+    border-style: solid;
+    border-color: yellow;
+    border-width: 15px;
+    text-align: center;
   }
